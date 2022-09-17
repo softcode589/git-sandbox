@@ -14,6 +14,3 @@ This script is *as of September 2022* Windows-only, however any PR to add Linux 
 **Info**: `%USERPROFILE%` is a Windows variable to go directly to your user folder.
 
 This script currently creates a repository that you can test.
-
-## EXPERIMENTAL!
-This script is currently not fully finalized, you may experience some issues.
