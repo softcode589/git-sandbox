@@ -1,5 +1,5 @@
-# Git Command Starter
-Start your Git with these commands ⚡
+# Git Sandbox
+Start a Git Sandbox where you can do some playing and tinkering with Git.
 
 ## Use script
 This script is *as of September 2022* Windows-only, however any PR to add Linux and MacOS scripts will be appreciated.
