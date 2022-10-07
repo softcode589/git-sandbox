@@ -1,3 +1,4 @@
+![Git sandbox logo, Atiba font](https://fontmeme.com/permalink/221007/df2b0a957e533479547b014f77bffe21.png)
 # Git Sandbox
 Start a Git Sandbox where you can do some playing and tinkering with Git.
 
